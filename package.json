@@ -3,9 +3,9 @@
   "name": "leave-management-system",
   "version": "1.0.0",
   "description": "Leave Management System Backend",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
